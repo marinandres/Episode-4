@@ -23,8 +23,4 @@ During the training process, Support Vector Machines (SVMs) adjust their decisio
 
 ![image](https://github.com/user-attachments/assets/b6935286-96a9-44b6-902a-ef835d33575a)
 
-bad = 100.00000000000001%
-good = 100.99999984999995%
-very-bad = 100.00000010000002%
-very-good = 100.00000005000001%
 The predicted image is : good
